@@ -1,0 +1,7 @@
+group,material,thickness_cm,file,role,channel,min_adc,max_adc,peak_adc
+Sample tests,,,background-final-R.csv,Reference,1,205,319,248
+Sample tests,,,background-final-R.csv,Reference,2,195,330,248
+Sample tests,,,background-final-R.csv,Reference,3,180,309,223
+Sample tests,,,background-final.csv,Main,1,211,324,249
+Sample tests,,,background-final.csv,Main,2,197,328,242
+Sample tests,,,background-final.csv,Main,3,189,295,228
