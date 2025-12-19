@@ -1,0 +1,7 @@
+file,label,channel,peak_adc,mip_min,mip_max,mip_count,total_count
+background-final-R.csv,background-final-R,1,248,226,278,50990,86557
+background-final-R.csv,background-final-R,2,248,221,282,49882,85975
+background-final-R.csv,background-final-R,3,223,204,248,41228,83808
+background-final.csv,background-final,1,249,230,273,41910,75599
+background-final.csv,background-final,2,242,220,277,44063,74995
+background-final.csv,background-final,3,228,209,251,38923,73738
